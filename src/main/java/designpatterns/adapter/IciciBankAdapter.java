@@ -9,7 +9,6 @@ public class IciciBankAdapter implements BankApi{
         // desired format of my application
         return 0;
     }
-
     //print a new line
     //new line added by newf branch
     //new line by main
