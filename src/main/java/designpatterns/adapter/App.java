@@ -9,7 +9,5 @@ public class App {
         Phonepe phonepe = new Phonepe(new IciciBankAdapter());
         phonepe.performBankOperation();
         System.out.println();
-        System.out.println("Aswin");
-        System.out.println("Aswin");
     }
 }
