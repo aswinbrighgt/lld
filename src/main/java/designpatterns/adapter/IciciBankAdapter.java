@@ -18,5 +18,6 @@ public class IciciBankAdapter implements BankApi{
     public void transferFunds(String from, String to, Double amount) {
         // it's forming the request which will be sent to IciciBank in the desired format
         System.out.println("Transferring the amount in icici ");
+        System.out.println("Aswin");
     }
 }
