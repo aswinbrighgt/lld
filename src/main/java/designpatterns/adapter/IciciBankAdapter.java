@@ -10,6 +10,7 @@ public class IciciBankAdapter implements BankApi{
         return 0;
     }
     //print a new line
+    //new line added by newf branch
 
     @Override
     public void transferFunds(String from, String to, Double amount) {
