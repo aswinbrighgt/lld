@@ -8,5 +8,6 @@ public class App {
         System.out.println();
         Phonepe phonepe = new Phonepe(new IciciBankAdapter());
         phonepe.performBankOperation();
+        System.out.println();
     }
 }
