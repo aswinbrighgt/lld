@@ -20,6 +20,6 @@ public class IciciBankAdapter implements BankApi{
         System.out.println("Transferring the amount in icici ");
         System.out.println("Aswin");
         System.out.println("Aswin");
-        System.out.println("Aswin");
+        System.out.println("Bright");
     }
 }
