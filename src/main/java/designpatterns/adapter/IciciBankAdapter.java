@@ -9,6 +9,7 @@ public class IciciBankAdapter implements BankApi{
         // desired format of my application
         return 0;
     }
+    //print a new line
 
     @Override
     public void transferFunds(String from, String to, Double amount) {
